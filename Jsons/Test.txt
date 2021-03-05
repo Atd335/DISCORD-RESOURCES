@@ -1,5 +1,0 @@
-{
-	"name" : "PENIS"
-	"inventory":{pee,poo,cum}
-	"health":10
-}
